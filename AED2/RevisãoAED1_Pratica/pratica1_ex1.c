@@ -38,7 +38,7 @@ int main()
             maior = v[i];
         }
     }
-    printf("Maior valor encontrado: %d", maior);
+    printf("Maior valor encontrado: %d\n", maior);
     
     // Liberação de memória
     free(v);
