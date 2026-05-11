@@ -1,5 +1,6 @@
 /*
- *         Matriz de tamanho dinamicamente alocado
+ *  Matriz de tamanho dinamicamente alocado
+ *  Leitura de N e M, alocação da matriz, leitura dos valores, soma dos elementos e liberação de memória
  */
 
 #include <stdlib.h>

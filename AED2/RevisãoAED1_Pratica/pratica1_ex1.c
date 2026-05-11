@@ -1,5 +1,6 @@
 /*
- *       Vetor de tamanho dinâmicamente alocado         
+ *  Vetor de tamanho dinâmicamente alocado
+ *  Leitura de N, alocação do vetor, leitura dos valores, busca do maior valor e liberação de memória
  */
 
 #include <stdio.h>
