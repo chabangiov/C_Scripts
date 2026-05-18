@@ -1,6 +1,0 @@
-{
-    "code-runner.executorMap": {
-        "c": "cd $dir && gcc $fileName -o build/$fileNameWithoutExt -lm && ./build/$fileNameWithoutExt"
-    },
-    "code-runner.saveFileBeforeRun": true
-}
