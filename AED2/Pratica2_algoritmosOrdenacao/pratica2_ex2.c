@@ -1,7 +1,7 @@
 /* Selection Sort.
   a) A ideia principal do Selection Sort é
 */
-
+#include <stdio.h>
 void selectionSort(int v[], int n) {
   int i, j, min, temp;
   for (i = 0; i < n - 1; i++) {
