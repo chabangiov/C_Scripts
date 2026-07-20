@@ -1,0 +1,3 @@
+1) Plataformas de e-commerce (ordenar produtos por menor preço),
+  ou sistemas de notas de vestibular ou concursos (ordenar as x 
+  maiores notas), etc.

@@ -1,0 +1,38 @@
+Questão 2: inserções: 10, 20, 30, 15, 25, 5
+
+a)
+Inserção do 10:
+10
+
+Inserção do 20:
+10
+  \
+   20
+
+Inserção do 30:
+10
+  \           (RR)          20
+   20          ->          /  \            b) Houve rotação do tipo Right-Right (Simples à esquerda)
+    \                    10    30
+     30
+
+Inserção do 15:
+   20
+  /  \
+10    30
+  \
+   15
+
+Inserção do 25:
+    20
+  /    \
+10      30
+  \     /
+  15   25
+
+Inserção do 5:
+     20
+   /    \
+  10     30
+ /  \    /
+5   15  25
